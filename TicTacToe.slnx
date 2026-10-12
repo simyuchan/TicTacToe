@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Display/Display.csproj" Id="9aa9c27a-c085-46f5-9dd4-0a7612b8f8ed" />
+  <Project Path="GameBoard/GameBoard.csproj" Id="bc37f973-317c-462c-b990-4455915bbb2b" />
+</Solution>

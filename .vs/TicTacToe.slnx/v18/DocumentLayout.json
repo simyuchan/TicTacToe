@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\simyuchan\\source\\repos\\TicTacToe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC37F973-317C-462C-B990-4455915BBB2B}|GameBoard\\GameBoard.csproj|c:\\users\\simyuchan\\source\\repos\\tictactoe\\gameboard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC37F973-317C-462C-B990-4455915BBB2B}|GameBoard\\GameBoard.csproj|solutionrelative:gameboard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA9C27A-C085-46F5-9DD4-0A7612B8F8ED}|Display\\Display.csproj|c:\\users\\simyuchan\\source\\repos\\tictactoe\\display\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA9C27A-C085-46F5-9DD4-0A7612B8F8ED}|Display\\Display.csproj|solutionrelative:display\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA9C27A-C085-46F5-9DD4-0A7612B8F8ED}|Display\\Display.csproj|c:\\users\\simyuchan\\source\\repos\\tictactoe\\display\\display.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9AA9C27A-C085-46F5-9DD4-0A7612B8F8ED}|Display\\Display.csproj|solutionrelative:display\\display.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC37F973-317C-462C-B990-4455915BBB2B}|GameBoard\\GameBoard.csproj|c:\\users\\simyuchan\\source\\repos\\tictactoe\\gameboard\\gameboard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC37F973-317C-462C-B990-4455915BBB2B}|GameBoard\\GameBoard.csproj|solutionrelative:gameboard\\gameboard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Display",
+              "DocumentMoniker": "C:\\Users\\simyuchan\\source\\repos\\TicTacToe\\Display\\Display.csproj",
+              "RelativeDocumentMoniker": "Display\\Display.csproj",
+              "ToolTip": "C:\\Users\\simyuchan\\source\\repos\\TicTacToe\\Display\\Display.csproj",
+              "RelativeToolTip": "Display\\Display.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-12T03:55:39.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\simyuchan\\source\\repos\\TicTacToe\\Display\\Program.cs",
+              "RelativeDocumentMoniker": "Display\\Program.cs",
+              "ToolTip": "C:\\Users\\simyuchan\\source\\repos\\TicTacToe\\Display\\Program.cs",
+              "RelativeToolTip": "Display\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T03:55:34.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\simyuchan\\source\\repos\\TicTacToe\\GameBoard\\Program.cs",
+              "RelativeDocumentMoniker": "GameBoard\\Program.cs",
+              "ToolTip": "C:\\Users\\simyuchan\\source\\repos\\TicTacToe\\GameBoard\\Program.cs",
+              "RelativeToolTip": "GameBoard\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T03:52:23.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameBoard.csproj",
+              "DocumentMoniker": "C:\\Users\\simyuchan\\source\\repos\\TicTacToe\\GameBoard\\GameBoard.csproj",
+              "RelativeDocumentMoniker": "GameBoard\\GameBoard.csproj",
+              "ToolTip": "C:\\Users\\simyuchan\\source\\repos\\TicTacToe\\GameBoard\\GameBoard.csproj",
+              "RelativeToolTip": "GameBoard\\GameBoard.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-12T03:34:07.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

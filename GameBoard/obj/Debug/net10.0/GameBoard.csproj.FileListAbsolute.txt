@@ -1,0 +1,16 @@
+C:\Users\simyuchan\source\repos\csharp-exercises\TicTacToe\GameBoard\bin\Debug\net10.0\GameBoard.exe
+C:\Users\simyuchan\source\repos\csharp-exercises\TicTacToe\GameBoard\bin\Debug\net10.0\GameBoard.deps.json
+C:\Users\simyuchan\source\repos\csharp-exercises\TicTacToe\GameBoard\bin\Debug\net10.0\GameBoard.runtimeconfig.json
+C:\Users\simyuchan\source\repos\csharp-exercises\TicTacToe\GameBoard\bin\Debug\net10.0\GameBoard.dll
+C:\Users\simyuchan\source\repos\csharp-exercises\TicTacToe\GameBoard\bin\Debug\net10.0\GameBoard.pdb
+C:\Users\simyuchan\source\repos\csharp-exercises\TicTacToe\GameBoard\obj\Debug\net10.0\GameBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simyuchan\source\repos\csharp-exercises\TicTacToe\GameBoard\obj\Debug\net10.0\GameBoard.AssemblyInfoInputs.cache
+C:\Users\simyuchan\source\repos\csharp-exercises\TicTacToe\GameBoard\obj\Debug\net10.0\GameBoard.AssemblyInfo.cs
+C:\Users\simyuchan\source\repos\csharp-exercises\TicTacToe\GameBoard\obj\Debug\net10.0\GameBoard.csproj.CoreCompileInputs.cache
+C:\Users\simyuchan\source\repos\csharp-exercises\TicTacToe\GameBoard\obj\Debug\net10.0\GameBoard.sourcelink.json
+C:\Users\simyuchan\source\repos\csharp-exercises\TicTacToe\GameBoard\obj\Debug\net10.0\GameBoard.dll
+C:\Users\simyuchan\source\repos\csharp-exercises\TicTacToe\GameBoard\obj\Debug\net10.0\refint\GameBoard.dll
+C:\Users\simyuchan\source\repos\csharp-exercises\TicTacToe\GameBoard\obj\Debug\net10.0\GameBoard.pdb
+C:\Users\simyuchan\source\repos\csharp-exercises\TicTacToe\GameBoard\obj\Debug\net10.0\GameBoard.genruntimeconfig.cache
+C:\Users\simyuchan\source\repos\csharp-exercises\TicTacToe\GameBoard\obj\Debug\net10.0\ref\GameBoard.dll
+C:\Users\simyuchan\source\repos\csharp-exercises\TicTacToe\GameBoard\obj\Debug\net10.0\GameBoard.csproj.Up2Date
